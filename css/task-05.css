@@ -1,0 +1,20 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #2E2F42;
+    letter-spacing: 0.04em;
+}
+
+.change-color {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    width: 148px;
+    height: 40px;
+    border: none;
+    border-radius: 8px;
+    background: #4E75FF;
+}
