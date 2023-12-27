@@ -6,7 +6,7 @@
     column-gap: 12px;
 }
 
-.gallery-list img {
+.img-item {
     width: 360px;
     height: 300px;
     object-fit: cover;
